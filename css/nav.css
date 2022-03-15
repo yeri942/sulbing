@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: whitesmoke;
+}
+nav img {
+    padding: 1vh;
+    transform: translateX(-12vh);
+}
+nav ul {
+    display: inline-block;
+}
+nav ul li {
+    display: inline-block;
+    padding-right: 20vh;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #3e211d;
+    font-size: 2.5vh;
+    font-weight: 900;
+}
