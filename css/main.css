@@ -1,0 +1,8 @@
+#main {
+    display: flex;
+    justify-content: center;
+}
+#main img {
+    width: 80%;
+    object-fit: cover;
+}
